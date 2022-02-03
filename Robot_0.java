@@ -18,6 +18,16 @@ public class Robot_0 {
 	}
 	
 		
+public void isDead(int vie){
+		
+		if (getVie() == 0) {
+			
+			System.out.println(nom + " est mort");
+		}
+		
+	}
+
+	
 	
 	
 	
