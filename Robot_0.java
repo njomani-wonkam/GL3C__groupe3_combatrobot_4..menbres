@@ -27,7 +27,29 @@ public void isDead(int vie){
 		
 	}
 
-	
+public String getNom() {
+	return nom;
+}
+
+public void setNom(String nom){
+	this.nom = nom;
+}
+
+public int getVie() {
+	return vie;
+}
+
+public void setVie(int vie){
+	this.vie = vie;
+}
+
+public int getAttack() {
+	return attack;
+}
+
+public void setAttack(int attack) {
+	this.attack = attack;
+}
 	
 	
 	
