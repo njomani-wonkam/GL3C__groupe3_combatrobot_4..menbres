@@ -12,7 +12,12 @@ public class Robot_0 {
 		this.attack = attack;
 	}
 	
+	public void fire(int fire){
+		this.vie -= fire;
+		
+	}
 	
+		
 	
 	
 	
